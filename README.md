@@ -10,7 +10,7 @@
 ```ts
 const AbdelAziz = {
   pronouns: "he/him",
-  code: ["PHP", "JavaScript", "TypeScript"],
+  code: ["PHP", "JavaScript"],
   askMeAbout: ["web development", "backend", "Laravel", "API architecture"],
   technologies: {
     backend: ["Laravel", "Lumen", "Node.js"],
