@@ -15,7 +15,7 @@ const AbdelAziz = {
   technologies: {
     backend: ["Laravel", "Lumen", "Node.js"],
     frontend: ["Vue.js", "React"],
-    databases: ["MySQL", "MongoDB"],
+    databases: ["MySQL", "MongoDB", "Postgress SQL"],
     devops: ["Docker", "Nginx/Apache", "AWS (S3)"],
     misc: ["Git", "Postman", "API Docs", "Agile/Scrum"]
   },
